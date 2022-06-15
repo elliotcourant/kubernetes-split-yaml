@@ -1,4 +1,4 @@
-module github.com/mogensen/kubernetes-split-yaml
+module github.com/elliotcourant/kubernetes-split-yaml
 
 go 1.12
 
